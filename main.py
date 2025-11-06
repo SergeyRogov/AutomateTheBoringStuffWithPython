@@ -1,4 +1,4 @@
-from Chapter4.draw_symbols import main
+from Chapter5.handle_inventory import main
 
 
 if __name__ == "__main__":
