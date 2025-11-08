@@ -1,4 +1,4 @@
-from Chapter5.handle_inventory import main
+from Chapter6.PasswordManager.password_manager import main
 
 
 if __name__ == "__main__":
